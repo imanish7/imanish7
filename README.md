@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imanish7
-- 👀 I’m interested in ...C and C++
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Python and java.
+- 🌱 I’m currently learning ...c++
 - 📫 How to reach me ... mail id- anish00000007@gmail.com
 
 <!---
